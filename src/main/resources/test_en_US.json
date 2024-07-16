@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "John Doe",
     "age": 30,
     "occupation": "Developer",
@@ -9,7 +8,11 @@
       "state": "CA",
       "zip": "12345"
     },
-    "interests": ["reading", "hiking", "coding"]
+    "interests": [
+      "reading",
+      "hiking",
+      "coding"
+    ]
   },
   {
     "name": "Jane Doe",
@@ -21,7 +24,11 @@
       "state": "NY",
       "zip": "67890"
     },
-    "interests": ["drawing", "photography", "traveling"]
+    "interests": [
+      "drawing",
+      "photography",
+      "traveling"
+    ]
   },
   {
     "name": "Bob Smith",
@@ -33,6 +40,10 @@
       "state": "TX",
       "zip": "34567"
     },
-    "interests": ["golf", "reading", "cooking"]
+    "interests": [
+      "golf",
+      "reading",
+      "cooking"
+    ]
   }
 ]
