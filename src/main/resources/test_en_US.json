@@ -1,4 +1,6 @@
-[{
+{
+  "array": [
+  {
     "name": "John Doe",
     "age": 30,
     "occupation": "Developer",
@@ -46,4 +48,4 @@
       "cooking"
     ]
   }
-]
+]}
