@@ -1,0 +1,41 @@
+person1:
+  name: Джон Доу
+  age: 30
+  occupation: разработчик
+  address:
+    street: Мейн-стрит, 123
+    city: Любой город
+    state: КАЛИФОРНИЯ
+    zip: 12345
+  interests:
+  - чтении
+  - пеший туризм
+  - кодирования
+
+person2:
+  name: Джейн Доу
+  age: 25
+  occupation: Дизайнер
+  address:
+    street: ул. Вязов, 456
+    city: Другой город
+    state: НЬЮ-ЙОРК
+    zip: 67890
+  interests:
+  - чертеж
+  - фотография
+  - путешествие
+
+person3:
+  name: Боб Смит
+  age: 40
+  occupation: Менеджер
+  address:
+    street: ул. Оук-стрит, 789
+    city: Тистаун
+    state: ТЕХАС
+    zip: 34567
+  interests:
+  - гольф
+  - чтении
+  - приготовление еды
