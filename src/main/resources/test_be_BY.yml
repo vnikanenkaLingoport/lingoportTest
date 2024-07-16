@@ -1,0 +1,41 @@
+person1:
+  name: John Doe
+  age: 30
+  occupation: توسعه دهنده
+  address:
+    street: 123 Main St
+    city: Kuuliyada
+    state: Izvinite, ali vaš zahtjev nije jasan. Možete li ga pojasniti ili postaviti drugo pitanje? Hvala!
+    zip: 12345
+  interests:
+  - qira'a
+  - مشي للمشي
+  - kodowanie
+
+person2:
+  name: Jane Doe
+  age: 25
+  occupation: Dizayner
+  address:
+    street: 456 Elm St
+    city: Gorod drugih
+    state: Njujork
+    zip: 67890
+  interests:
+  - رسم
+  - tasweer
+  - safar
+
+person3:
+  name: Bob Smith
+  age: 40
+  occupation: Meneja
+  address:
+    street: 789 Oak St
+    city: Thistown
+    state: Teksas
+    zip: 34567
+  interests:
+  - golf
+  - قراءة
+  - kuzina
