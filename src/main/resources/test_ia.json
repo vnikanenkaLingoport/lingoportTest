@@ -1,0 +1,52 @@
+{
+  "array": [
+    {
+      "address": {
+        "city": "9.746 Anytown",
+        "state": "9.747 CA",
+        "street": "9.745 123 Main St",
+        "zip": "9.748 12345"
+      },
+      "age": "9.743 30",
+      "interests": [
+        "9.749 reading",
+        "9.750 hiking",
+        "9.751 coding"
+      ],
+      "name": "9.742 John Doe",
+      "occupation": "9.744 Developer"
+    },
+    {
+      "address": {
+        "city": "9.756 Othertown",
+        "state": "9.757 NY",
+        "street": "9.755 456 Elm St",
+        "zip": "9.758 67890"
+      },
+      "age": "9.753 25",
+      "interests": [
+        "9.759 drawing",
+        "9.760 photography",
+        "9.761 traveling"
+      ],
+      "name": "9.752 Jane Doe",
+      "occupation": "9.754 Designer"
+    },
+    {
+      "address": {
+        "city": "9.766 Thistown",
+        "state": "9.767 TX",
+        "street": "9.765 789 Oak St",
+        "zip": "9.768 34567"
+      },
+      "age": "9.763 40",
+      "interests": [
+        "9.769 golf",
+        "9.770 reading",
+        "9.771 cooking"
+      ],
+      "name": "9.762 Bob Smith",
+      "occupation": "9.764 Manager"
+    }
+  ]
+}
