@@ -4,12 +4,20 @@
     "name": "John Doe",
     "age": "30",
     "occupation": "Developer",
-    "address": {
-      "street": "123 Main St",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    },
+    "addresses": [
+      {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      {
+        "street": "Bla bla bla",
+        "city": "Ourtown",
+        "state": "ETC",
+        "zip": "6738930"
+      }
+    ],
     "interests": [
       "reading",
       "hiking",
