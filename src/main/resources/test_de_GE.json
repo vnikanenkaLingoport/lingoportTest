@@ -7,6 +7,20 @@
         "street": "Hauptstraße 123",
         "zip": "12345"
       },
+      "addresses": [
+        {
+          "city": "Irgendeine Stadt",
+          "state": "CA",
+          "street": "Hauptstraße 123",
+          "zip": "12345"
+        },
+        {
+          "city": "Unsere Stadt",
+          "state": "USW",
+          "street": "Bla bla bla",
+          "zip": "6738930"
+        }
+      ],
       "age": "30",
       "interests": [
         "Lesen",
