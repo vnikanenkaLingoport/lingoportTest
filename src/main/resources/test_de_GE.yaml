@@ -1,0 +1,41 @@
+person1:
+  name: John Doe
+  age: 30
+  occupation: Entwickler
+  address:
+    street: Hauptstraße 123
+    city: Irgendeine Stadt
+    state: CA
+    zip: 12345
+  interests:
+  - Lesen
+  - Wandern
+  - Kodierung
+
+person2:
+  name: Jane Doe
+  age: 25
+  occupation: Designerin
+  address:
+    street: 456 Elm Street
+    city: Andere Stadt
+    state: NY
+    zip: 67890
+  interests:
+  - Zeichnen
+  - Foto
+  - Reisen
+
+person3:
+  name: Bob Smith
+  age: 40
+  occupation: Geschäftsführer
+  address:
+    street: 789 Oak Street
+    city: Diese Stadt
+    state: TX
+    zip: 34567
+  interests:
+  - Golf
+  - Lesen
+  - Kochen

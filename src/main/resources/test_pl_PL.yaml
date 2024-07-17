@@ -1,0 +1,41 @@
+person1:
+  name: Jan Kowalski
+  age: 30
+  occupation: Programista
+  address:
+    street: 123 ulica Główna
+    city: Dowolne miasto
+    state: Nie rozumiem, czy możesz podać więcej kontekstu? "CA" może oznaczać wiele różnych rzeczy w zależności od kontekstu.
+    zip: 12345
+  interests:
+  - czytanie
+  - wędrówka
+  - programowanie
+
+person2:
+  name: Jane Doe
+  age: 25
+  occupation: Projektant
+  address:
+    street: 456 Elm St - ulica Dębowa 456
+    city: Inne miasto
+    state: NY może oznaczać skrót od stanu Nowy Jork w Stanach Zjednoczonych. Może również oznaczać skrót od "nowy" w języku angielskim. Czy mogę pomóc w czymś jeszcze?
+    zip: 67890
+  interests:
+  - rysowanie
+  - fotografia
+  - podróżować
+
+person3:
+  name: Bob Smith
+  age: 40
+  occupation: Menadżer
+  address:
+    street: 789 ulica Dębowa
+    city: Przepraszam, nie rozumiem pytania. Czy możesz podać więcej informacji lub wyjaśnić, o co chodzi?
+    state: Nie ma za co
+    zip: 34567
+  interests:
+  - golf
+  - czytanie
+  - gotowanie

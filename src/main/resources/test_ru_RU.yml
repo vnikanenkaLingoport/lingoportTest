@@ -1,0 +1,41 @@
+person1:
+  name: Джон Доу
+  age: 30
+  occupation: Разработчик
+  address:
+    street: 123 Главная улица
+    city: Любойгород
+    state: CA означает Калифорния, штат в США.
+    zip: 12345
+  interests:
+  - чтение
+  - пеший туризм
+  - программирование
+
+person2:
+  name: Джейн Доу
+  age: 25
+  occupation: Дизайнер
+  address:
+    street: 456 Elm St - улица Элм, дом 456
+    city: Другой город
+    state: Нью-Йорк
+    zip: 67890
+  interests:
+  - рисунок
+  - фотография
+  - путешествие
+
+person3:
+  name: Боб Смит
+  age: 40
+  occupation: Менеджер
+  address:
+    street: 789 Дубовая улица
+    city: Этот город
+    state: TX означает "Техас" - штат в США.
+    zip: 34567
+  interests:
+  - гольф
+  - чтение
+  - готовка

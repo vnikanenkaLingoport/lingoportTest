@@ -1,0 +1,52 @@
+{
+  "array": [
+    {
+      "address": {
+        "city": "Anytown - Ville de tous",
+        "state": "Je suis désolé, je ne comprends pas ce que vous voulez dire par \"CA\". Pouvez-vous fournir plus de contexte ou reformuler votre demande?",
+        "street": "123 rue principale",
+        "zip": "12345"
+      },
+      "age": "30",
+      "interests": [
+        "lecture",
+        "randonnée",
+        "codage"
+      ],
+      "name": "Jean Dupont",
+      "occupation": "Développeur"
+    },
+    {
+      "address": {
+        "city": "Autreville",
+        "state": "Je suis désolé, \"NY\" ne semble pas être une phrase complète en anglais. Pouvez-vous fournir plus de contexte ou une phrase complète pour que je puisse vous aider à traduire en français?",
+        "street": "456 Rue Elm",
+        "zip": "67890"
+      },
+      "age": "25",
+      "interests": [
+        "dessin",
+        "photographie",
+        "voyager"
+      ],
+      "name": "Jane Doe",
+      "occupation": "Designer"
+    },
+    {
+      "address": {
+        "city": "Thistown n'est pas une phrase complète en anglais. Pouvez-vous fournir plus de contexte ou une phrase complète pour que je puisse vous aider à traduire en français?",
+        "state": "Je suis désolé, je ne comprends pas ce que vous voulez dire par \"TX\". Pouvez-vous fournir plus de contexte ou préciser votre demande ?",
+        "street": "789 Rue du Chêne",
+        "zip": "34567"
+      },
+      "age": "40",
+      "interests": [
+        "golf",
+        "lecture",
+        "cuisine"
+      ],
+      "name": "Bob Smith",
+      "occupation": "Gestionnaire"
+    }
+  ]
+}
