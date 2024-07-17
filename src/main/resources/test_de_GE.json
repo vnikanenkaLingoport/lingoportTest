@@ -1,0 +1,52 @@
+{
+  "array": [
+    {
+      "address": {
+        "city": "Irgendeine Stadt",
+        "state": "CA",
+        "street": "Hauptstraße 123",
+        "zip": "12345"
+      },
+      "age": "30",
+      "interests": [
+        "Lesen",
+        "Wandern",
+        "Kodierung"
+      ],
+      "name": "John Doe",
+      "occupation": "Entwickler"
+    },
+    {
+      "address": {
+        "city": "Andere Stadt",
+        "state": "NY",
+        "street": "456 Elm Street",
+        "zip": "67890"
+      },
+      "age": "25",
+      "interests": [
+        "Zeichnen",
+        "Foto",
+        "Reisen"
+      ],
+      "name": "Jane Doe",
+      "occupation": "Designerin"
+    },
+    {
+      "address": {
+        "city": "Diese Stadt",
+        "state": "TX",
+        "street": "789 Oak Street",
+        "zip": "34567"
+      },
+      "age": "40",
+      "interests": [
+        "Golf",
+        "Lesen",
+        "Kochen"
+      ],
+      "name": "Bob Smith",
+      "occupation": "Geschäftsführer"
+    }
+  ]
+}
