@@ -5,9 +5,9 @@
         "city": "Будь-яке місто",
         "state": "КАЛІФОРНІЯ",
         "street": "вул. Мейн, 123",
-        "zip": "12345"
+        "zip": "Error in Translation"
       },
-      "age": "30",
+      "age": "Error in Translation",
       "interests": [
         "читання",
         "піший туризм",
@@ -21,9 +21,9 @@
         "city": "Інше місто",
         "state": "НОВИЙ",
         "street": "вул. В'яза, 456",
-        "zip": "67890"
+        "zip": "Error in Translation"
       },
-      "age": "25",
+      "age": "Error in Translation",
       "interests": [
         "малюнок",
         "фотозйомка",
@@ -35,11 +35,11 @@
     {
       "address": {
         "city": "Тістаун",
-        "state": "TX",
+        "state": "Error in Translation",
         "street": "Вулиця Оук, 789",
-        "zip": "34567"
+        "zip": "Error in Translation"
       },
-      "age": "40",
+      "age": "Error in Translation",
       "interests": [
         "гольф",
         "читання",

@@ -1,41 +1,41 @@
 person1:
-  name: Джон Доу
+  name: John Doe
   age: 30
-  occupation: Розробник
+  occupation: Developer
   address:
-    street: вул. Мейн, 123
-    city: Будь-яке місто
-    state: КАЛІФОРНІЯ
+    street: 123 Main St
+    city: Anytown
+    state: CA
     zip: 12345
   interests:
-  - читання
-  - піший туризм
-  - кодування
+    - reading
+    - hiking
+    - coding
 
 person2:
-  name: Джейн Доу
+  name: Jane Doe
   age: 25
-  occupation: Дизайнер
+  occupation: Designer
   address:
-    street: вул. В'яза, 456
-    city: Інше місто
-    state: НОВИЙ
+    street: 456 Elm St
+    city: Othertown
+    state: NY
     zip: 67890
   interests:
-  - малюнок
-  - фотозйомка
-  - подорожі
+    - drawing
+    - photography
+    - traveling
 
 person3:
-  name: Боб Сміт
+  name: Bob Smith
   age: 40
-  occupation: Менеджер
+  occupation: Manager
   address:
-    street: Вулиця Оук, 789
-    city: Тістаун
+    street: 789 Oak St
+    city: Thistown
     state: TX
     zip: 34567
   interests:
-  - гольф
-  - читання
-  - приготування
+    - golf
+    - reading
+    - cooking

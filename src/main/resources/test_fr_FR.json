@@ -1,0 +1,52 @@
+{
+"_LRM_PKTAG966":"lingoportTest_master_5_25 - FULL-FILE",
+  "array": [
+  {
+    "name":"Error in Translation",
+    "age":"Error in Translation",
+    "occupation":"Développeur",
+    "address": {
+      "street":"123 rue Main",
+      "city":"N'importe quelle ville",
+      "state":"CALIFORNIE",
+      "zip":"Error in Translation"
+    },
+    "interests": [
+      "1":"en train de lire",
+      "2":"randonnée",
+      "3":"codage"
+    ]
+  },
+  {
+    "name":"Error in Translation",
+    "age":"Error in Translation",
+    "occupation":"Error in Translation",
+    "address": {
+      "street":"456 rue Elm",
+      "city":"Autre ville",
+      "state":"NEW YORK",
+      "zip":"Error in Translation"
+    },
+    "interests": [
+      "1":"dessin",
+      "2":"photographie",
+      "3":"en voyageant"
+    ]
+  },
+  {
+    "name":"Error in Translation",
+    "age":"Error in Translation",
+    "occupation":"Directeur",
+    "address": {
+      "street":"789 rue Oak",
+      "city":"Cette ville",
+      "state":"Error in Translation",
+      "zip":"Error in Translation"
+    },
+    "interests": [
+      "1":"Error in Translation",
+      "2":"en train de lire",
+      "3":"cuisine"
+    ]
+  }
+]}

@@ -5,9 +5,9 @@
         "city": "Любой город",
         "state": "КАЛИФОРНИЯ",
         "street": "Мейн-стрит, 123",
-        "zip": "12345"
+        "zip": "Error in Translation"
       },
-      "age": "30",
+      "age": "Error in Translation",
       "interests": [
         "чтении",
         "пеший туризм",
@@ -21,9 +21,9 @@
         "city": "Другой город",
         "state": "НЬЮ-ЙОРК",
         "street": "ул. Вязов, 456",
-        "zip": "67890"
+        "zip": "Error in Translation"
       },
-      "age": "25",
+      "age": "Error in Translation",
       "interests": [
         "чертеж",
         "фотография",
@@ -37,9 +37,9 @@
         "city": "Тистаун",
         "state": "ТЕХАС",
         "street": "ул. Оук-стрит, 789",
-        "zip": "34567"
+        "zip": "Error in Translation"
       },
-      "age": "40",
+      "age": "Error in Translation",
       "interests": [
         "гольф",
         "чтении",

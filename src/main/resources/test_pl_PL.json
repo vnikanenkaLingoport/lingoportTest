@@ -1,0 +1,52 @@
+{
+"_LRM_PKTAG502":"lingoportTest_master_5_23 - FULL-FILE",
+  "array": [
+  {
+    "name":"Error in Translation",
+    "age":"Error in Translation",
+    "occupation":"Deweloper",
+    "address": {
+      "street":"Error in Translation",
+      "city":"Dowolne miasto",
+      "state":"Error in Translation",
+      "zip":"Error in Translation"
+    },
+    "interests": [
+      "1":"czytanie",
+      "2":"krajoznawczy",
+      "3":"kodowanie"
+    ]
+  },
+  {
+    "name":"Error in Translation",
+    "age":"Error in Translation",
+    "occupation":"Projektant",
+    "address": {
+      "street":"Ulica Wiązu 456",
+      "city":"Inne miasto",
+      "state":"NEW",
+      "zip":"Error in Translation"
+    },
+    "interests": [
+      "1":"rysowanie",
+      "2":"fotografia",
+      "3":"podróże"
+    ]
+  },
+  {
+    "name":"Boba Smitha",
+    "age":"Error in Translation",
+    "occupation":"Menedżer",
+    "address": {
+      "street":"Error in Translation",
+      "city":"Error in Translation",
+      "state":"Error in Translation",
+      "zip":"Error in Translation"
+    },
+    "interests": [
+      "1":"Error in Translation",
+      "2":"czytanie",
+      "3":"kuchenny"
+    ]
+  }
+]}
