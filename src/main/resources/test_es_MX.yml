@@ -1,0 +1,41 @@
+person1:
+  name: Джон Доу
+  age: 30
+  occupation: Розробник
+  address:
+    street: 123 Головна вулиця
+    city: Будь-яке місто
+    state: I'm sorry, "CA" could refer to many things. Can you please provide more context or clarify what you are referring to?
+    zip: 12345
+  interests:
+  - читання
+  - похід в гори
+  - програмування
+
+person2:
+  name: Джейн Доу
+  age: 25
+  occupation: Дизайнер
+  address:
+    street: 456 Вулиця В'язів
+    city: Іншемісто
+    state: Нью-Йорк
+    zip: 67890
+  interests:
+  - малюнок
+  - фотографія
+  - подорожуючи
+
+person3:
+  name: Боб Сміт
+  age: 40
+  occupation: Керівник
+  address:
+    street: 789 Дубова вулиця
+    city: Це місто
+    state: Якщо ви маєте на увазі "TX" як абревіатуру, то вона може означати "транзакцію" або "Техас" в залежності від контексту.
+    zip: 34567
+  interests:
+  - гольф
+  - читання
+  - готування
