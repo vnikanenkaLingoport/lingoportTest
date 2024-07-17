@@ -28,9 +28,9 @@
       "zip":"Error in Translation"
     },
     "interests": [
-      "1":"rysowanie",
-      "2":"fotografia",
-      "3":"podróże"
+      "rysowanie",
+      "fotografia",
+      "podróże"
     ]
   },
   {
@@ -44,9 +44,9 @@
       "zip":"Error in Translation"
     },
     "interests": [
-      "1":"Error in Translation",
-      "2":"czytanie",
-      "3":"kuchenny"
+      "Error in Translation",
+      "czytanie",
+      "kuchenny"
     ]
   }
 ]}
