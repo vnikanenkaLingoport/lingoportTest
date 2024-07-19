@@ -1,0 +1,197 @@
+{
+    "name": "Deeply Nested JSON",
+    "categories": [
+        {
+            "id": "cat1",
+            "subcategories": [
+                {
+                    "id": "subcat1",
+                    "products": [
+                        {
+                            "name": "Product 1",
+                            "description": "This is product 1",
+                            "features": [
+                                {
+                                    "feature": "Feature 1",
+                                    "description": "This is feature 1"
+                                },
+                                {
+                                    "feature": "Feature 2",
+                                    "description": "This is feature 2"
+                                }
+                            ],
+                            "reviews": [
+                                {
+                                    "rating": "5",
+                                    "review": "This is a great product!"
+                                },
+                                {
+                                    "rating": "4",
+                                    "review": "This product is okay"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Product 2",
+                            "description": "This is product 2",
+                            "features": [
+                                {
+                                    "feature": "Feature 3",
+                                    "description": "This is feature 3"
+                                },
+                                {
+                                    "feature": "Feature 4",
+                                    "description": "This is feature 4"
+                                }
+                            ],
+                            "reviews": [
+                                {
+                                    "rating": "5",
+                                    "review": "This is a great product!"
+                                },
+                                {
+                                    "rating": "4",
+                                    "review": "This product is okay"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "subcat2",
+                    "products": [
+                        {
+                            "name": "Product 3",
+                            "description": "This is product 3",
+                            "features": [
+                                {
+                                    "feature": "Feature 5",
+                                    "description": "This is feature 5"
+                                },
+                                {
+                                    "feature": "Feature 6",
+                                    "description": "This is feature 6"
+                                }
+                            ],
+                            "reviews": [
+                                {
+                                    "rating": "5",
+                                    "review": "This is a great product!"
+                                },
+                                {
+                                    "rating": "4",
+                                    "review": "This product is okay"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Product 4",
+                            "description": "This is product 4",
+                            "features": [
+                                {
+                                    "feature": "Feature 7",
+                                    "description": "This is feature 7"
+                                },
+                                {
+                                    "feature": "Feature 8",
+                                    "description": "This is feature 8"
+                                }
+                            ],
+                            "reviews": [
+                                {
+                                    "rating": "5",
+                                    "review": "This is a great product!"
+                                },
+                                {
+                                    "rating": "4",
+                                    "review": "This product is okay"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cat2",
+            "subcategories": [
+                {
+                    "id": "subcat3",
+                    "products": [
+                        {
+                            "name": "Product 5",
+                            "description": "This is product 5",
+                            "features": [
+                                {
+                                    "feature": "Feature 9",
+                                    "description": "This is feature 9"
+                                },
+                                {
+                                    "feature": "Feature 10",
+                                    "description": "This is feature 10"
+                                }
+                            ],
+                            "reviews": [
+                                {
+                                    "rating": "5",
+                                    "review": "This is a great product!"
+                                },
+                                {
+                                    "rating": "4",
+                                    "review": "This product is okay"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Product 6",
+                            "description": "This is product 6",
+                            "features": [
+                                {
+                                    "feature": "Feature 11",
+                                    "description": "This is feature 11"
+                                },
+                                {
+                                    "feature": "Feature 12",
+                                    "description": "This is feature 12"
+                                }
+                            ],
+                            "reviews": [
+                                {
+                                    "rating": "3",
+                                    "review": "This is a great product!"
+                                },
+                                {
+                                    "rating": "2",
+                                    "review": "This product is okay"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+    ],
+    "metadata": {
+        "author": "John Doe",
+        "created_at": "2022-01-01T12:00:00Z",
+        "nested_metadata": {
+            "version": "1.0",
+            "build_number": "123",
+            "deeply_nested_metadata": {
+                "sub_version": "1.1",
+                "sub_build_number": "456",
+                "even_deeper_metadata": {
+                    "sub_sub_version": "1.1.1",
+                    "sub_sub_build_number": "789"
+                }
+            }
+        }
+    }
+}
