@@ -1,0 +1,197 @@
+{
+  "name": "JSON profondément imbriqué",
+  "categories": [
+    {
+      "id": "cat1",
+      "subcategories": [
+        {
+          "id": "sous-catégorie 1",
+          "products": [
+            {
+              "description": "Il s'agit du produit 1",
+              "features": [
+                {
+                  "description": "Il s'agit de la fonctionnalité 1",
+                  "feature": "Fonctionnalité 1"
+                },
+                {
+                  "description": "Il s'agit de la fonctionnalité 2",
+                  "feature": "Fonctionnalité 2"
+                }
+              ],
+              "name": "Produit 1",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "C'est un excellent produit !"
+                },
+                {
+                  "rating": "4",
+                  "review": "Ce produit est correct"
+                }
+              ]
+            },
+            {
+              "description": "Il s'agit du produit 2",
+              "features": [
+                {
+                  "description": "Il s'agit de la fonctionnalité 3",
+                  "feature": "Fonctionnalité 3"
+                },
+                {
+                  "description": "Il s'agit de la fonctionnalité 4",
+                  "feature": "Fonctionnalité 4"
+                }
+              ],
+              "name": "Produit 2",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "C'est un excellent produit !"
+                },
+                {
+                  "rating": "4",
+                  "review": "Ce produit est correct"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sous-catégorie 2",
+          "products": [
+            {
+              "description": "Il s'agit du produit 3",
+              "features": [
+                {
+                  "description": "Il s'agit de la fonctionnalité 5",
+                  "feature": "Fonctionnalité 5"
+                },
+                {
+                  "description": "Il s'agit de la fonctionnalité 6",
+                  "feature": "Fonctionnalité 6"
+                }
+              ],
+              "name": "Produit 3",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "C'est un excellent produit !"
+                },
+                {
+                  "rating": "4",
+                  "review": "Ce produit est correct"
+                }
+              ]
+            },
+            {
+              "description": "Il s'agit du produit 4",
+              "features": [
+                {
+                  "description": "Il s'agit de la fonctionnalité 7",
+                  "feature": "Fonctionnalité 7"
+                },
+                {
+                  "description": "Il s'agit de la fonctionnalité 8",
+                  "feature": "Fonctionnalité 8"
+                }
+              ],
+              "name": "Produit 4",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "C'est un excellent produit !"
+                },
+                {
+                  "rating": "4",
+                  "review": "Ce produit est correct"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat2",
+      "subcategories": [
+        {
+          "id": "sous-catégorie 3",
+          "products": [
+            {
+              "description": "Il s'agit du produit 5",
+              "features": [
+                {
+                  "description": "Il s'agit de la fonctionnalité 9",
+                  "feature": "Fonctionnalité 9"
+                },
+                {
+                  "description": "Il s'agit de la fonctionnalité 10",
+                  "feature": "Fonctionnalité 10"
+                }
+              ],
+              "name": "Produit 5",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "C'est un excellent produit !"
+                },
+                {
+                  "rating": "4",
+                  "review": "Ce produit est correct"
+                }
+              ]
+            },
+            {
+              "description": "Il s'agit du produit 6",
+              "features": [
+                {
+                  "description": "Il s'agit de la fonctionnalité 11",
+                  "feature": "Fonctionnalité 11"
+                },
+                {
+                  "description": "Il s'agit de la fonctionnalité 12",
+                  "feature": "Fonctionnalité 12"
+                }
+              ],
+              "name": "Produit 6",
+              "reviews": [
+                {
+                  "rating": "3",
+                  "review": "C'est un excellent produit !"
+                },
+                {
+                  "rating": "2",
+                  "review": "Ce produit est correct"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "étiquette 1",
+    "étiquette 2",
+    "étiquette 3",
+    "étiquette 4",
+    "étiquette 5"
+  ],
+    "metadata": {
+    "author": "John Doe",
+    "created_at": "01 JANVIER À 12 H 00 H 00",
+        "nested_metadata": {
+      "version": "1,0",
+      "build_number": "123",
+            "deeply_nested_metadata": {
+        "sub_version": "1,1",
+        "sub_build_number": "456",
+                "even_deeper_metadata": {
+          "sub_sub_version": "1.1.1",
+          "sub_sub_build_number": "789"
+                }
+            }
+        }
+    }
+}

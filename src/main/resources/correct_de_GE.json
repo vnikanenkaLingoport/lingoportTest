@@ -1,0 +1,197 @@
+{
+  "name": "Tief verschachteltes JSON",
+  "categories": [
+    {
+      "id": "Kat.1",
+      "subcategories": [
+        {
+          "id": "Unterkat1",
+          "products": [
+            {
+              "description": "Das ist Produkt 1",
+              "features": [
+                {
+                  "description": "Das ist Feature 1",
+                  "feature": "Merkmal 1"
+                },
+                {
+                  "description": "Das ist Feature 2",
+                  "feature": "Merkmal 2"
+                }
+              ],
+              "name": "Produkt 1",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Das ist ein großartiges Produkt!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Dieses Produkt ist okay"
+                }
+              ]
+            },
+            {
+              "description": "Das ist Produkt 2",
+              "features": [
+                {
+                  "description": "Das ist Feature 3",
+                  "feature": "Merkmal 3"
+                },
+                {
+                  "description": "Das ist Feature 4",
+                  "feature": "Merkmal 4"
+                }
+              ],
+              "name": "Produkt 2",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Das ist ein großartiges Produkt!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Dieses Produkt ist okay"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Unterkat2",
+          "products": [
+            {
+              "description": "Das ist Produkt 3",
+              "features": [
+                {
+                  "description": "Das ist Feature 5",
+                  "feature": "Merkmal 5"
+                },
+                {
+                  "description": "Das ist Feature 6",
+                  "feature": "Merkmal 6"
+                }
+              ],
+              "name": "Produkt 3",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Das ist ein großartiges Produkt!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Dieses Produkt ist okay"
+                }
+              ]
+            },
+            {
+              "description": "Das ist Produkt 4",
+              "features": [
+                {
+                  "description": "Das ist Feature 7",
+                  "feature": "Merkmal 7"
+                },
+                {
+                  "description": "Das ist Feature 8",
+                  "feature": "Merkmal 8"
+                }
+              ],
+              "name": "Produkt 4",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Das ist ein großartiges Produkt!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Dieses Produkt ist okay"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Katze 2",
+      "subcategories": [
+        {
+          "id": "Unterkat3",
+          "products": [
+            {
+              "description": "Das ist Produkt 5",
+              "features": [
+                {
+                  "description": "Das ist Feature 9",
+                  "feature": "Merkmal 9"
+                },
+                {
+                  "description": "Das ist Feature 10",
+                  "feature": "Merkmal 10"
+                }
+              ],
+              "name": "Produkt 5",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Das ist ein großartiges Produkt!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Dieses Produkt ist okay"
+                }
+              ]
+            },
+            {
+              "description": "Das ist Produkt 6",
+              "features": [
+                {
+                  "description": "Das ist Feature 11",
+                  "feature": "Merkmal 11"
+                },
+                {
+                  "description": "Das ist Feature 12",
+                  "feature": "Merkmal 12"
+                }
+              ],
+              "name": "Produkt 6",
+              "reviews": [
+                {
+                  "rating": "3",
+                  "review": "Das ist ein großartiges Produkt!"
+                },
+                {
+                  "rating": "2",
+                  "review": "Dieses Produkt ist okay"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "tag1",
+    "tag2",
+    "tag3",
+    "Etikett 4",
+    "Etikett 5"
+  ],
+    "metadata": {
+    "author": "John Doe",
+    "created_at": "20.01.01T 12:00:00 Z",
+        "nested_metadata": {
+      "version": "1,0",
+      "build_number": "123",
+            "deeply_nested_metadata": {
+        "sub_version": "1.1",
+        "sub_build_number": "456",
+                "even_deeper_metadata": {
+          "sub_sub_version": "1.1.1",
+          "sub_sub_build_number": "789"
+                }
+            }
+        }
+    }
+}

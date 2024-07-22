@@ -1,0 +1,197 @@
+{
+  "name": "Глибоко вкладений JSON",
+  "categories": [
+    {
+      "id": "кіт1",
+      "subcategories": [
+        {
+          "id": "підкатегорія1",
+          "products": [
+            {
+              "description": "Це продукт 1",
+              "features": [
+                {
+                  "description": "Це функція 1",
+                  "feature": "Функція 1"
+                },
+                {
+                  "description": "Це особливість 2",
+                  "feature": "Функція 2"
+                }
+              ],
+              "name": "Продукт 1",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Це відмінний продукт!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Цей продукт в порядку"
+                }
+              ]
+            },
+            {
+              "description": "Це продукт 2",
+              "features": [
+                {
+                  "description": "Це функція 3",
+                  "feature": "Функція 3"
+                },
+                {
+                  "description": "Це особливість 4",
+                  "feature": "Функція 4"
+                }
+              ],
+              "name": "Продукт 2",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Це відмінний продукт!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Цей продукт в порядку"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "підкатегорія2",
+          "products": [
+            {
+              "description": "Це продукт 3",
+              "features": [
+                {
+                  "description": "Це функція 5",
+                  "feature": "Функція 5"
+                },
+                {
+                  "description": "Це функція 6",
+                  "feature": "Функція 6"
+                }
+              ],
+              "name": "Продукт 3",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Це відмінний продукт!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Цей продукт в порядку"
+                }
+              ]
+            },
+            {
+              "description": "Це продукт 4",
+              "features": [
+                {
+                  "description": "Це особливість 7",
+                  "feature": "Особливість 7"
+                },
+                {
+                  "description": "Це особливість 8",
+                  "feature": "Особливість 8"
+                }
+              ],
+              "name": "Продукт 4",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Це відмінний продукт!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Цей продукт в порядку"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "кіт2",
+      "subcategories": [
+        {
+          "id": "підкатегорія3",
+          "products": [
+            {
+              "description": "Це продукт 5",
+              "features": [
+                {
+                  "description": "Це особливість 9",
+                  "feature": "Функція 9"
+                },
+                {
+                  "description": "Це функція 10",
+                  "feature": "Функція 10"
+                }
+              ],
+              "name": "Продукт 5",
+              "reviews": [
+                {
+                  "rating": "5",
+                  "review": "Це відмінний продукт!"
+                },
+                {
+                  "rating": "4",
+                  "review": "Цей продукт в порядку"
+                }
+              ]
+            },
+            {
+              "description": "Це продукт 6",
+              "features": [
+                {
+                  "description": "Це функція 11",
+                  "feature": "Функція 11"
+                },
+                {
+                  "description": "Це функція 12",
+                  "feature": "Функція 12"
+                }
+              ],
+              "name": "Продукт 6",
+              "reviews": [
+                {
+                  "rating": "3",
+                  "review": "Це відмінний продукт!"
+                },
+                {
+                  "rating": "2",
+                  "review": "Цей продукт в порядку"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "тег1",
+    "тег2",
+    "тег3",
+    "тег4",
+    "тег5"
+  ],
+    "metadata": {
+    "author": "Джон Доу",
+    "created_at": "2022-01-01Т 12:00:00 З",
+        "nested_metadata": {
+      "version": "1.0",
+      "build_number": "123",
+            "deeply_nested_metadata": {
+        "sub_version": "1.1",
+        "sub_build_number": "456",
+                "even_deeper_metadata": {
+          "sub_sub_version": "1.1.1",
+          "sub_sub_build_number": "789"
+                }
+            }
+        }
+    }
+}
