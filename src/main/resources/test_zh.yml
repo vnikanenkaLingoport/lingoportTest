@@ -1,0 +1,41 @@
+person1:
+  name: 约翰·多伊
+  age: 30
+  occupation: 开发者
+  address:
+    street: 主街 123 号
+    city: 任何城镇
+    state: 加州
+    zip: 12345
+  interests:
+  - 阅读
+  - 徒步旅行
+  - 编码
+
+person2:
+  name: 简·多伊
+  age: 25
+  occupation: 设计师
+  address:
+    street: 456 Elm St
+    city: 其他城镇
+    state: 纽约州
+    zip: 67890
+  interests:
+  - 绘图
+  - 摄影
+  - 旅行
+
+person3:
+  name: 鲍勃史密斯
+  age: 40
+  occupation: 经理
+  address:
+    street: 橡树街 789 号
+    city: Thistown
+    state: TX
+    zip: 34567
+  interests:
+  - 高尔夫
+  - 阅读
+  - 烹饪

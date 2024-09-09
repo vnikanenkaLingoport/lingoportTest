@@ -1,0 +1,60 @@
+{
+  "array": [
+    {
+      "addresses": [
+        {
+          "city": "任何城镇",
+          "state": "加州",
+          "street": "主街 123 号",
+          "zip": "12345"
+        },
+        {
+          "city": "Ourtown",
+          "state": "等等",
+          "street": "等等等等等等等等等等等等等等",
+          "zip": "6738930"
+        }
+      ],
+      "age": "30",
+      "interests": [
+        "阅读",
+        "徒步旅行",
+        "编码"
+      ],
+      "name": "约翰·多伊",
+      "occupation": "开发者"
+    },
+    {
+      "address": {
+        "city": "其他城镇",
+        "state": "纽约州",
+        "street": "456 Elm St",
+        "zip": "67890"
+      },
+      "age": "25",
+      "interests": [
+        "绘图",
+        "摄影",
+        "旅行"
+      ],
+      "name": "简·多伊",
+      "occupation": "设计师"
+    },
+    {
+      "address": {
+        "city": "Thistown",
+        "state": "TX",
+        "street": "橡树街 789 号",
+        "zip": "34567"
+      },
+      "age": "40",
+      "interests": [
+        "高尔夫",
+        "阅读",
+        "烹饪"
+      ],
+      "name": "鲍勃史密斯",
+      "occupation": "经理"
+    }
+  ]
+}
